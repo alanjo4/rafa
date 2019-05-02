@@ -21,9 +21,7 @@ namespace tp_6
                 }
                 else
                 {
-                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Ingrese un número positivo");
-                    Console.ForegroundColor = ConsoleColor.Gray;
                 }
             } while (!esNumero || rangoDeVector < 0);
             for (int i = 0; i < numeros.Length; i++)

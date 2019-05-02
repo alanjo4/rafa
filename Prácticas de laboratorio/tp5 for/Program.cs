@@ -30,6 +30,7 @@ namespace tp5_for
                     Console.WriteLine("Introduzca un número");
                 }
             } while (!esNumero);
+            Console.ReadKey();
         }
     }
 }

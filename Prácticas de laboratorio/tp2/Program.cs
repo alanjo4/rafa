@@ -61,6 +61,7 @@ namespace tp2
                     Console.WriteLine("Ingrese un número válido");
                 }
             } while (!esNumero || coleccionDeNumeros <= 0);
+            Console.ReadKey();
         } 
     }
 }

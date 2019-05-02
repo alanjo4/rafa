@@ -44,7 +44,6 @@ namespace Prácticas_de_laboratorio
                         if (numeros.Length == i + 1)
                         {
                             promedio /= numeros.Length;
-
                         }
                     }
 
