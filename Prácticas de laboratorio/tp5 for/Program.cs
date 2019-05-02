@@ -19,7 +19,6 @@ namespace tp5_for
                         {
                             Console.WriteLine("es par");
                         }
-
                         if (i == valor - 1)
                         {
                             Console.WriteLine("es impar");
