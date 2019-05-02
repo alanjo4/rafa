@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.28822.285
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prácticas de laboratorio", "Prácticas de laboratorio\Prácticas de laboratorio.csproj", "{E4059C28-3CC5-4F66-80B6-A35E52E9968B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp2", "tp2\tp2.csproj", "{BCEA5626-518A-4FB2-ABC8-C6A1279ABDDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tp2", "tp2\tp2.csproj", "{BCEA5626-518A-4FB2-ABC8-C6A1279ABDDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp5 for", "tp5 for\tp5 for.csproj", "{426EB8D3-F20D-4DE9-BE55-3E3505833141}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BCEA5626-518A-4FB2-ABC8-C6A1279ABDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCEA5626-518A-4FB2-ABC8-C6A1279ABDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCEA5626-518A-4FB2-ABC8-C6A1279ABDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426EB8D3-F20D-4DE9-BE55-3E3505833141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426EB8D3-F20D-4DE9-BE55-3E3505833141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426EB8D3-F20D-4DE9-BE55-3E3505833141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426EB8D3-F20D-4DE9-BE55-3E3505833141}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

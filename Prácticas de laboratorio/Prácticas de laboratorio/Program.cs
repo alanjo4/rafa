@@ -12,6 +12,7 @@ namespace Prácticas_de_laboratorio
             int coleccionDeNumeros = 0;
             double[] numeros = new double[coleccionDeNumeros];
             bool esNumero = false;
+
             do
             {
                 Console.WriteLine("Cuántos números necesita?");
